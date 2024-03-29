@@ -4,11 +4,11 @@ A Flutter project which is a tasks given by Banao Technology.
 
 ## Getting Started
 
-# First Task :- 
+#First Task :- 
 
 In the first task, we have created the UI .
 
-# Second Task :-
+#Second Task :-
 
 In the second task, we have integrate the APIs given by banao which is the continuation of first task. 
 
